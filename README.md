@@ -1,4 +1,4 @@
-# 👋 Hi, I'm WBGZDTSL!
+# 👋 Hi, I'm AaronWei！
 
 🌟 **Exploring the boundaries of AI, energy systems, and data-driven solutions.**  
 💻 **Passionate about research, open-source contributions, and continuous learning.**  
