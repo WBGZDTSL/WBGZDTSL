@@ -38,6 +38,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=WBGZDTSL&theme=radical" alt="GitHub Streak" width="60%">
 </p>
 
+**GitHub Contributions in 3D**
+
+![Contributions in 3D](https://github.com/marketplace/actions/github-profile-3d-contrib)
+
 ---
 
 ## 🧩 Fun Facts

@@ -1,0 +1,24 @@
+name: GitHub-Profile-3D-Contrib
+
+on:
+  schedule: # 设置为每天运行一次，时间为 UTC 18:00，相当于日本时间 03:00
+    - cron: "0 18 * * *" # 每天 UTC 18:00 触发
+  workflow_dispatch:  # 支持手动触发工作流
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-github-profile-3d-contrib
+    steps:
+      - uses: actions/checkout@v3  # Checkout 仓库代码
+      - uses: yoshi389111/github-profile-3d-contrib@0.7.1  # 使用 GitHub Profile 3D Contrib Action
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # 使用 GitHub token 授权
+          USERNAME: ${{ github.repository_owner }}  # 自动获取仓库所有者（用户名）
+      - name: Commit & Push
+        run: |
+          git config user.name github-actions  # 设置 Git 配置
+          git config user.email github-actions@github.com
+          git add -A .  # 添加所有更改
+          git commit -m "generated"  # 提交更改
+          git push  # 推送更改到远程仓库
