@@ -1,6 +1,5 @@
 name: GitHub-Profile-3D-Contrib
 
-
 on:
   schedule: # 02:30 IST == 21:00 UTC
     - cron: "0 21 * * *"
@@ -20,10 +19,9 @@ jobs:
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
-      - name: Pull latest changes
-        run: git pull origin main --rebase # 拉取远程的更新并合并本地更改
-      - name: Commit & Push
+      - name: Commit & Push (Force)
         run: |
           git add -A .
           git commit -m "generated"
-          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }} HEAD:main
+          git push --force https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }} HEAD:main
+
