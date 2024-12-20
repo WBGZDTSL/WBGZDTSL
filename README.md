@@ -34,10 +34,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WBGZDTSL&layout=compact&theme=radical" alt="Top Languages" width="48%">
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WBGZDTSL&theme=radical" alt="GitHub Streak" width="60%">
-</p>
-
 **GitHub Contributions in 3D**
 
 [![Contributions in 3D](/profile-3d-contrib/profile-night-rainbow.svg)](https://github.com/marketplace/actions/github-profile-3d-contrib)
