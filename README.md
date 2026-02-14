@@ -29,11 +29,6 @@
 ---
 
 ## 📊 My GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WBGZDTSL&show_icons=true&theme=radical" alt="GitHub Stats" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WBGZDTSL&layout=compact&theme=radical" alt="Top Languages" width="48%">
-</p>
-
 **GitHub Contributions in 3D**
 
 [![Contributions in 3D](/profile-3d-contrib/profile-season-animate.svg)](https://github.com/marketplace/actions/github-profile-3d-contrib)
