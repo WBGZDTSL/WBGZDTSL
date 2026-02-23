@@ -30,25 +30,6 @@
 **GitHub Contributions in 3D**
 
 [![Contributions in 3D](/profile-3d-contrib/profile-season-animate.svg)](https://github.com/marketplace/actions/github-profile-3d-contrib)
-
-### 🔎 RepoBeats Analytics
-- Contribution trends over time (commits, PRs, and issue activity)
-- Contributor visibility and collaboration dynamics
-- Clear signals for where new collaborators can contribute
-
-**Featured Repository: WBGZDTSL/WBGShare**
-
-[![RepoBeats WBGShare](https://repobeats.axiom.co/api/embed/YOUR_WBGSHARE_CONFIG_ID.svg "Repobeats analytics image")](https://repobeats.axiom.co/)
-
-**Profile Repository: WBGZDTSL/WBGZDTSL**
-
-[![RepoBeats WBGZDTSL](https://repobeats.axiom.co/api/embed/YOUR_WBGZDTSL_CONFIG_ID.svg "Repobeats analytics image")](https://repobeats.axiom.co/)
-
-Setup in 3 steps:
-1. Go to [repobeats.axiom.co](https://repobeats.axiom.co/) and sign in with GitHub.
-2. Create a config for each repository and copy the generated embed URL.
-3. Replace `YOUR_WBGSHARE_CONFIG_ID` and `YOUR_WBGZDTSL_CONFIG_ID` above.
-
 ---
 
 ## 🧪 Research & Engineering Style
