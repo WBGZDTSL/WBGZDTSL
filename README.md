@@ -1,44 +1,60 @@
-# 👋 Hi, I'm AaronWei！
+# 👋 Hi, I'm Bangguo Aaron Wei
 
-🌟 **Exploring the boundaries of AI, energy systems, and data-driven solutions.**  
-💻 **Passionate about research, open-source contributions, and continuous learning.**  
-📍 **Location:** [Heifei, China] | 🕊️ [My Blog](https://wbgzdtsl.github.io/WBGShare/)  
-
----
-
-## 🔭 Current Projects
-| Repository                                                                 | Description                                   | Status         |
-|----------------------------------------------------------------------------|-----------------------------------------------|----------------|
-| [AI Maintain](https://github.com/WBGZDTSL/AI_Maintain)                     | Predictive maintenance dashboard using AI.   | 🚀 Active      |
-| [Causal Inference Guide](https://github.com/WBGZDTSL/Causal_Inference)     | Simplifying causal analysis with examples.   | 🛠️ Ongoing     |
-| [Dynamic Dashboards](https://github.com/WBGZDTSL/Dynamic_Dashboards)       | Interactive dashboards for energy modeling.  | 🛠️ Ongoing     |
+🌟 **Researching AI, energy systems, and data-driven decision science.**  
+💻 **Building reproducible workflows, analytical tools, and open-source projects.**  
+📍 **Location:** [Hefei, China] | 🕊️ [My Blog](https://wbgzdtsl.github.io/WBGShare/)
 
 ---
 
-## 🛠 My Tech Stack
+## 🎓 Academic Focus
+- Causal inference and policy-oriented quantitative analysis
+- Energy-economy systems, sustainability, and low-carbon transition
+- Applied machine learning for forecasting and decision support
+
+---
+
+## 🛠 Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Stata](https://img.shields.io/badge/Stata-1A5A96?style=for-the-badge&logo=stata&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 ![Dash](https://img.shields.io/badge/Dash-072A53?style=for-the-badge&logo=dash&logoColor=white)
 
 ### 📚 Currently Learning
-- **LaTeX**: Writing professional academic papers and research documents.
-- **Mathematica**: Advanced computational modeling and analysis.
-- **Web Development**: Enhancing project interactivity with frontend tools.
+- **Mathematica**: Computational methods for advanced modeling.
+- **Scientific Writing**: Structuring reproducible and publication-ready research.
+- **Web Engineering**: Improving analytical tool delivery and usability.
 
 ---
 
-## 📊 My GitHub Stats
+## 📊 GitHub Analytics
 **GitHub Contributions in 3D**
 
 [![Contributions in 3D](/profile-3d-contrib/profile-season-animate.svg)](https://github.com/marketplace/actions/github-profile-3d-contrib)
 
+### 🔎 RepoBeats Analytics
+- Contribution trends over time (commits, PRs, and issue activity)
+- Contributor visibility and collaboration dynamics
+- Clear signals for where new collaborators can contribute
+
+**Featured Repository: WBGZDTSL/WBGShare**
+
+[![RepoBeats WBGShare](https://repobeats.axiom.co/api/embed/YOUR_WBGSHARE_CONFIG_ID.svg "Repobeats analytics image")](https://repobeats.axiom.co/)
+
+**Profile Repository: WBGZDTSL/WBGZDTSL**
+
+[![RepoBeats WBGZDTSL](https://repobeats.axiom.co/api/embed/YOUR_WBGZDTSL_CONFIG_ID.svg "Repobeats analytics image")](https://repobeats.axiom.co/)
+
+Setup in 3 steps:
+1. Go to [repobeats.axiom.co](https://repobeats.axiom.co/) and sign in with GitHub.
+2. Create a config for each repository and copy the generated embed URL.
+3. Replace `YOUR_WBGSHARE_CONFIG_ID` and `YOUR_WBGZDTSL_CONFIG_ID` above.
+
 ---
 
-## 🧩 Fun Facts
-- 🚀 I thrive at the intersection of **energy innovation** and **AI research**.
-- 🎯 Always curious about **sustainable solutions** for global energy challenges.
-- 🎓 Actively pursuing advanced tools for **causal inference** and **dynamic modeling**.
+## 🧪 Research & Engineering Style
+- Emphasis on reproducibility, transparent assumptions, and robust validation
+- Preference for clean architecture, modular scripts, and maintainable pipelines
+- Interest in translating academic insights into practical software tools
 
 ---
 
@@ -49,11 +65,4 @@
 
 ---
 
-## 🌟 Contributions & Achievements
-- Contributed to **open-source libraries** for causal inference and AI modeling.
-- Speaker at **Energy-AI workshops** discussing AI in energy systems.
-- Published research on **green low-carbon investments** in energy cooperation.
-
----
-
-Feel free to check out my repositories and get in touch! 🎉
+Thanks for visiting my profile. Collaboration on academic and engineering projects is always welcome.
